@@ -7,6 +7,10 @@ This project aims to analyse New York Citi Bike data in order to prepare for an 
 
 Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2020.3.2
 
+# Tableau dashboard link 
+
+https://public.tableau.com/shared/F9DQ5JG65?:display_count=n&:origin=viz_share_link
+
 # Results 
 
 <img width="981" alt="image" src="https://user-images.githubusercontent.com/98793962/169734457-6fcb6c76-967d-4ea0-bfbc-04c98ea76815.png">
