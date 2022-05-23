@@ -24,10 +24,11 @@ Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook
 2. Window bike maintanence may be used from 2:00 AM to 5:00 PM as there is usuallt lower activities
 
 
-<img width="493" alt="image" src="https://user-images.githubusercontent.com/98793962/169734968-40a0c634-5c8a-4178-b61c-cf8d1387bf14.png">
+<img width="1008" alt="image" src="https://user-images.githubusercontent.com/98793962/169735535-d75cfbb0-57bc-4449-8769-5e7426dfe3dc.png">
 
 1. Male Users ride more than female users 
 
-<img width="493" alt="image" src="https://user-images.githubusercontent.com/98793962/169735330-bb7b1679-174f-4de6-abca-1440e6f57564.png">
+<img width="744" alt="image" src="https://user-images.githubusercontent.com/98793962/169735483-58d01955-dde6-41e0-9d1f-c4f62f63f591.png">
+
 
 1. Weekday's have higher demand from 10:00 AM to 7:00 PM and are mostly taken by male users
